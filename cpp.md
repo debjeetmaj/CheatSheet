@@ -1,6 +1,6 @@
 #Important c++ points
 Good Links
-(Learncpp) [http://www.learncpp.com]
+[Learncpp] (http://www.learncpp.com)
 ##Header Files
 -----------------------------------------------------
 ###1. Header Guard
